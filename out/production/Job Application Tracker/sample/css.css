@@ -1,0 +1,16 @@
+#progressTable .table-column {
+  -fx-alignment: CENTER;
+}
+
+#appliedTable .table-column {
+  -fx-alignment: CENTER;
+}
+
+.button{
+        -fx-background-color: #6e6e6e;
+        -fx-text-fill: white;
+}
+
+
+
+
